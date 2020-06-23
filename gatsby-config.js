@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Node.js (TypeScript) API',
+    title: 'AMZBox Vercel',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
